@@ -1,3 +1,8 @@
+#include <cstdint>
+#include <crt/host_defines.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
 #ifndef SHA256_H
 #define SHA256_H
 
