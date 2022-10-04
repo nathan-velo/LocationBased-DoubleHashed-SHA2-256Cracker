@@ -4,3 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
+/x64/Debug
+/SHA256Cracker/x64/Debug
+/.vs/LongLat2xSHA2-256Cracker/v17
